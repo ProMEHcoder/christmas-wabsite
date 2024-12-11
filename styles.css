@@ -18,6 +18,8 @@
 }
 #im{
     border: dotted rgb(0, 191, 45) 5px;
+    box-shadow: 10px 10px 10px rgb(255, 0, 0);
+    box-shadow: -10px -10px -10px rgb(4, 255, 0);
 }
 .music{
     color: #00ae2f;
