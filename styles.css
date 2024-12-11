@@ -19,3 +19,11 @@
 #im{
     border: dotted rgb(0, 191, 45) 5px;
 }
+.music{
+    color: #00ae2f;
+    border: solid rgba(254, 0, 0, 0.903) 3px
+}
+#music{
+    color: #00ae2f;
+    border: solid rgba(254, 0, 0, 0.903) 3px
+}
