@@ -19,13 +19,26 @@
 #im{
     border: dotted rgb(0, 191, 45) 5px;
     box-shadow: 10px 10px 10px rgb(255, 0, 0);
-    box-shadow: -10px -10px -10px rgb(4, 255, 0);
+    
 }
 .music{
-    color: #00ae2f;
-    border: solid rgba(254, 0, 0, 0.903) 3px
+    color: #00ae2ecd;
+    border: solid rgba(254, 0, 0, 0.903) 3px;
+
+    box-shadow: -10px -10px -10px rgb(4, 255, 0);
 }
 #music{
-    color: #00ae2f;
-    border: solid rgba(254, 0, 0, 0.903) 3px
+    color: #d80101;
+    border: solid rgba(0, 173, 23, 0.903) 8px
 }
+a:hover{
+    background-color:  #ff0000;
+}
+h1:hover{
+    background-color:  #00af0c;
+}
+
+h3:hover{
+    background-color:  #ff0000;
+}
+
