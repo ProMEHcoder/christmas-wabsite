@@ -36,9 +36,19 @@ a:hover{
 }
 h1:hover{
     background-color:  #00af0c;
+    color: #d80101;
 }
 
 h3:hover{
     background-color:  #ff0000;
+}
+p:hover{
+    background-color:  #d80101;
+    color: #0dc900;
+    
+}
+.bjs{
+    background-color:  #0dc900;
+    color: #d80101;
 }
 
